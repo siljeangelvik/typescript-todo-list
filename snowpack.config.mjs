@@ -1,7 +1,7 @@
 /** @type {import("snowpack").SnowpackUserConfig } */
 export default {
   mount: {
-    public: { url: '/public', static: true },
+    public: { url: '/', static: true },
     src: { url: '/dist' },
   },
   plugins: [
