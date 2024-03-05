@@ -1,0 +1,38 @@
+form {
+    width: 50%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    gap: 25px;
+}
+
+form > label {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+form > input#new-task-title {
+    background: linear-gradient(145deg, #CDCFD2, #FFFFFF);
+    border-radius: 3%;
+    box-shadow: inset 9.91px 9.91px 15px #D9DADE, inset -9.91px -9.91px 15px #FFFFFF;
+    border: none;
+    height: 25px;
+}
+
+form > button {
+    border: none;
+    background-color: #000;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+}
+#list {
+    list-style: none;
+    padding: 0;
+}
+
+p.center {
+    width: 100%;
+    text-align: center;
+}
