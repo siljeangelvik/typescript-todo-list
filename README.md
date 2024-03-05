@@ -64,7 +64,7 @@ Click on the badges below to go to my profiles or contact me via email.
 ## Resources
 - [TypeScript Tutorial](https://www.youtube.com/watch?v=jBmrduvKl5w) by **Web Dev Simplified**
 - [CSS Grid & Flexbox](https://matthewjamestaylor.com/right-sidebar-layout) by **Matthew James Taylor**
-
+- [Glassmorphism](https://codepen.io/siljeangelvik/pen/bGJdPBj) by **Flowbite**
 #### ChatGPT
 _Used **ChatGPT** out of curiosity and saw that the coding could be shortened and improved._
 
