@@ -1,11 +1,11 @@
 # TypeScript TODO List
 
-[![Netlify Status]()](https://app.netlify.com/sites/typescript-todo-list/deploys)   
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29d058c7-d1c0-447b-8f0e-7f5de0e61c28/deploy-status)](https://app.netlify.com/sites/sav-typescript-todo-list/deploys)  
 ![Hello](https://img.shields.io/static/v1?label=project&message=todo-list&color=orange) ![GitHub last commit](https://img.shields.io/github/last-commit/siljeangelvik/typescript-todo-list?&color=ff69b4)  
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/siljeangelvik/typescript-todo-list?&color=blue) ![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/r/rating/R4Intellij?&color=blueviolet)
 
 **Author:** [Silje Angelvik](https://github.com/siljeangelvik)    
-**Host:** [Netlify](https://netlify.com/)  
+**Host:** [Netlify](https://sav-typescript-todo-list.netlify.app/)  
 **Repository:** [GitHub](https://github.com/siljeangelvik/typescript-todo-list)
 
 ## Description
